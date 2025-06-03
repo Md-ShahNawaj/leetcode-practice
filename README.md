@@ -14,7 +14,7 @@ This is where I track my journey solving problems in:
 ---
 
 ## 📁 Folder Structure
-leetcode-practice/
+```leetcode-practice/
 ├── SQL/
 │   ├── Easy/
 │   │   └── 175-combine-two-tables.sql
