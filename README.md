@@ -17,9 +17,10 @@ This is where I track my journey solving problems in:
 ```leetcode-practice/
 ├── SQL/
 │   ├── Easy/
-│   │   └── 1965-employees-with-missing-information.sql
+│   │    ├── 1965-employees-with-missing-information.sql
 │   └── Medium/
-│       └── 176.Second_Highest_Salary.sql
+│   │    ├── 176.Second_Highest_Salary.sql
+│   │    ├── 178. Ran Scores
 │
 ├── Python/
 │   ├── Easy/
@@ -50,6 +51,7 @@ This is where I track my journey solving problems in:
 | # | Problem | File | LeetCode |
 |--:|---------|------|----------|
 | 176 | Second Highest Salary | [`Second Highest Salary.sqll`](SQL/Medium/176.Second_Highest_Salary.sql) | [🔗](https://leetcode.com/problems/second-highest-salary/description/) |
+| 178 | Ran Scores | [`Second Highest Salary.sqll`](SQL/Medium/178.Ran_Scores.sql) | [🔗](https://leetcode.com/problems/rank-scores/description/) |
 
 ---
 
