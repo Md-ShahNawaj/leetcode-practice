@@ -23,7 +23,7 @@ This is where I track my journey solving problems in:
 │
 ├── Python/
 │   ├── Easy/
-│   │   └── 1-two-sum.py
+│   │   └── [1. Two Sum](Python/Easy/1. Tow Sum.py)
 │   └── Medium/
 │       └── 3-longest-substring.py
 │
