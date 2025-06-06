@@ -19,7 +19,7 @@ This is where I track my journey solving problems in:
 │   ├── Easy/
 │   │   └── 1965-employees-with-missing-information.sql
 │   └── Medium/
-│       └── 176-Second Highest Salary.sql
+│       └── 176.Second_Highest_Salary.sql
 │
 ├── Python/
 │   ├── Easy/
@@ -49,7 +49,7 @@ This is where I track my journey solving problems in:
 
 | # | Problem | File | LeetCode |
 |--:|---------|------|----------|
-| 176 | Second Highest Salary | [`Second Highest Salary.sqll`](SQL/Medium/176.SecondHighestSalary.sql) | [🔗](https://leetcode.com/problems/second-highest-salary/description/) |
+| 176 | Second Highest Salary | [`Second Highest Salary.sqll`](SQL/Medium/176.Second_Highest_Salary.sql) | [🔗](https://leetcode.com/problems/second-highest-salary/description/) |
 
 ---
 
