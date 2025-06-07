@@ -20,7 +20,7 @@ This is where I track my journey solving problems in:
 │   │    ├── 1965-employees-with-missing-information.sql
 │   └── Medium/
 │   │    ├── 176.Second_Highest_Salary.sql
-│   │    ├── 178. Ran Scores
+│   │    ├── 178.Ran Scores
 │
 ├── Python/
 │   ├── Easy/
